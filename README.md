@@ -1,2 +1,2 @@
 # SocialScraper
-www.socialscraper.co.uk - being converted into an android app
+socialscraper.co.uk - being converted into an android app
